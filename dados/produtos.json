@@ -1,0 +1,17 @@
+[
+    {
+        "id": 1,
+        "nome": "Maça",
+        "preco": 4
+    },
+    {
+        "id": 2,
+        "nome": "Abacate",
+        "preco": 5
+    },
+    {
+        "id": 3,
+        "nome": "Melancia",
+        "preco": 15
+    }
+]
